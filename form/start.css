@@ -1,0 +1,19 @@
+#first {
+    color: #ff0000;
+    border: 5px solid #43cabd;
+    border-radius: 40px;
+    background-color: #edeed7;
+    margin: 20px;
+}
+
+.container {
+    color: #ff0000;
+    background-color: #edeed7;
+    border: 5px solid #43cabd;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 128px;
+    font-size: larger;
+    font-weight: bolder;
+
+}
