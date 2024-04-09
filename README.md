@@ -28,3 +28,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat-vivek&" alt="bharat-vivek" /></p>
 
 [![An image of @bharatvivek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bharatvivek)](https://holopin.io/@bharatvivek)
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="bharat1201" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bharat1201?trk=profile-badge">Bharat Verma</a></div>
+              
