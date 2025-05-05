@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharat-vivek" alt="bharat-vivek" /></a> </p>
 
-- 👨‍💻My linkedin profile is:- [\bharat_linkidin](https://www.linkedin.com/in/bharat1201/)
+- 👨‍💻My linkedin profile is:- [Bharat_Verma](https://www.linkedin.com/in/bharat1201/)
 
 - 📫 How to reach me **Bharatvermar14@gmail.com**
 
